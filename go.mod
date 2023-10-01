@@ -6,7 +6,7 @@ require (
 	dario.cat/mergo v1.0.0
 	github.com/BurntSushi/toml v1.3.2
 	github.com/containers/libtrust v0.0.0-20230121012942-c1716e8a8d01
-	github.com/containers/ocicrypt v1.1.7
+	github.com/containers/ocicrypt v1.1.8
 	github.com/containers/storage v1.48.1-0.20230721123825-4a3a3019d765
 	github.com/cyberphone/json-canonicalization v0.0.0-20230701045847-91eb5f1b7744
 	github.com/docker/distribution v2.8.2+incompatible
@@ -124,7 +124,6 @@ require (
 	google.golang.org/grpc v1.56.2 // indirect
 	google.golang.org/protobuf v1.31.0 // indirect
 	gopkg.in/go-jose/go-jose.v2 v2.6.1 // indirect
-	gopkg.in/square/go-jose.v2 v2.6.0 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
 	gotest.tools/v3 v3.4.0 // indirect
 )
